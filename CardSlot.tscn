@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://gxe8qsfuwuv7"]
+
+[ext_resource type="Texture2D" uid="uid://nkf0piwyy3al" path="res://CardSlot-ezgif.com-resize.png" id="1_5tl20"]
+
+[node name="CardSlotImage" type="Node2D" unique_id=1232923667]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1390377340]
+position = Vector2(180.27777, 452.52832)
+scale = Vector2(1.3944446, 1.4504048)
+texture = ExtResource("1_5tl20")
+
+[node name="Area2D" type="Area2D" parent="." unique_id=919408335]
+position = Vector2(191, 407.5)
